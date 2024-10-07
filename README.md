@@ -1,4 +1,4 @@
-# Hello, I'm Kayode Oloyede
+# Hello, I'm Kayode
 <a href="https://linkedin.com/in/kayode-oloyede-024901146/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
