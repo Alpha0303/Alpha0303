@@ -1,14 +1,11 @@
 # Hello, I'm Kayode
 <a href="https://linkedin.com/in/kayode-oloyede-024901146/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am passionate about cybersecurity and dedicated to solving complex problems and continuously expanding my knowledge in the field to help protect and educate others.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in cybersecurity is driven by my curiosity to understand how things work from the inside and my passion for breaking into systems to uncover their workings, I'm deeply commited to cybersecurity. I aim to raise awareness, especially among professionals and entry-level learners, to help them navigate and secure the digital world. I'm specifically aiming to join a Security Team as a Penetration tester.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
