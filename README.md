@@ -11,7 +11,7 @@ My journey in cybersecurity is driven by my curiosity to understand how things w
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis Lab                          | <a href="[https://google.com](https://github.com/Alpha0303/Home-Lab/tree/main)">Malware Analysis Lab</a>|
+| Malware Analysis Lab                          | <a href="https://github.com/Alpha0303/Malware-Analysis-Lab">Malware Analysis Lab</a>|
 | Malware Analysis                              | <a href="https://google.com">Malware Analysis</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
