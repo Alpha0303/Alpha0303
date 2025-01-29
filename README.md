@@ -13,10 +13,10 @@ My journey in cybersecurity is driven by my curiosity to understand how things w
 |-----------------------------------------------|----------------------------|
 | Malware Analysis Lab                          | <a href="https://github.com/Alpha0303/Malware-Analysis-Lab">Malware Analysis Lab</a>|
 | Malware Analysis                              | <a href="https://google.com">Malware Analysis</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|          | |
+|       | |
+|                   | |
+|  | |
 
 ## Tools
 
@@ -30,6 +30,9 @@ My journey in cybersecurity is driven by my curiosity to understand how things w
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FLARE-4B275F?&style=for-the-badge&logo=FLARE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+
 </div>
 
 ### SIEM
