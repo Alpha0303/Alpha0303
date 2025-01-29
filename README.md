@@ -1,5 +1,6 @@
 # Hello, I'm Kayode
 <a href="https://linkedin.com/in/kayode-oloyede-024901146/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@alpha03_03"><img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 
 I am passionate about cybersecurity and dedicated to solving complex problems and continuously expanding my knowledge in the field to help protect and educate others.
 
