@@ -44,5 +44,5 @@ My journey in cybersecurity is driven by my curiosity to understand how things w
 </div>
 
 ## Projects
-- Malware Analysis Lab
+- <a href="https://github.com/Alpha0303/Malware-Analysis-Lab">Malware Analysis Lab</a>
 - Malware Analysis
