@@ -12,7 +12,7 @@ My journey in cybersecurity is driven by my curiosity to understand how things w
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis Lab                          | <a href="https://github.com/Alpha0303/Malware-Analysis-Lab">Malware Analysis Lab</a>|
+| Malware Analysis                          | <a href="https://github.com/Alpha0303/Malware-Analysis-Lab">Malware Analysis Lab</a>|
 |                               | |
 |          | |
 |       | |
